@@ -1,0 +1,10 @@
+Ans4.
+
+A static site refers to a website that consists of fixed files that are served exactly as they are stored. 
+In other words, the content of a static site does not change dynamically based on user interactions or data 
+from a database. Instead, all the pages of a static site are pre-rendered and delivered to the user as static 
+HTML, CSS, and JavaScript files.
+
+Static sites are typically composed of plain HTML files and may include additional assets such as images, stylesheets, 
+and JavaScript libraries. The content on a static site is static and does not rely on server-side processing or 
+database queries to generate the web pages.

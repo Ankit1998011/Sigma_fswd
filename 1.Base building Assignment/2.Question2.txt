@@ -1,0 +1,11 @@
+Ans2.
+
+A web browser is a software application that allows users to access and navigate the World Wide Web (WWW). It 
+is the primary interface through which individuals interact with websites, web pages, and other online content.
+Web browsers interpret HTML (Hypertext Markup Language) documents, CSS (Cascading Style Sheets), and other web 
+technologies to display web pages and enable users to interact with them.
+
+Some popular web browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, and Opera. They 
+provide features such as tabbed browsing, bookmarking, history tracking, and support for plugins and extensions. 
+Web browsers also support various security measures, such as blocking malicious websites and protecting user 
+privacy.

@@ -1,0 +1,15 @@
+Ans3.
+
+A browser engine, also known as a rendering engine or layout engine, is a core component of web browsers that 
+interprets and displays web content. It is responsible for parsing HTML, CSS, JavaScript, and other web 
+technologies and rendering them on the user's screen.
+
+Browser engines work by downloading web documents, interpreting the markup code, and then rendering it into a 
+visual representation that users can interact with. They handle tasks such as rendering text, images, and 
+multimedia, laying out and positioning elements on the web page, applying styles and formatting, and executing 
+JavaScript code.
+
+Each web browser typically has its own browser engine, which may have unique features, performance characteristics, 
+and levels of standards compliance. Some popular browser engines include Blink (used in Google Chrome and 
+other Chromium-based browsers), Gecko (used in Mozilla Firefox), WebKit (used in Safari and some other browsers), 
+and Trident/EdgeHTML (used in older versions of Microsoft Edge).
